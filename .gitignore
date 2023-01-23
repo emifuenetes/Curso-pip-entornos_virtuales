@@ -16,6 +16,9 @@
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
+# png
+*.png
+
 ### macOS ###
 # General
 .DS_Store
